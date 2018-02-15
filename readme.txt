@@ -7,9 +7,10 @@ discarding lines or removing lines-
 1.before adding to staging area
 2. after adding to staging area
 
-Can we delete/discard/remove line after commiting the changes? - Need to check this
+<---- adding lines now ---->
 
-Thus changes are done
-through remote repo
+This is how I learnt 
 
-go and check local repo
+2. after adding to staging area
+2. after adding to staging area
+2. after adding to staging area
