@@ -7,10 +7,5 @@ discarding lines or removing lines-
 1.before adding to staging area
 2. after adding to staging area
 
-<---- adding lines now ---->
+<----  deleting lines now ---->
 
-This is how I learnt 
-
-2. after adding to staging area
-2. after adding to staging area
-2. after adding to staging area
